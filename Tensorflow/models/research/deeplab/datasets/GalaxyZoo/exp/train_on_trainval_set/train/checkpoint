@@ -1,0 +1,3 @@
+model_checkpoint_path: "/home/noranikoloska/Documents/MasinskaVizija/Tensorflow/models/research/deeplab/datasets/GalaxyZoo/exp/train_on_trainval_set/train/model.ckpt-94"
+all_model_checkpoint_paths: "/home/noranikoloska/Documents/MasinskaVizija/Tensorflow/models/research/deeplab/datasets/GalaxyZoo/exp/train_on_trainval_set/train/model.ckpt-0"
+all_model_checkpoint_paths: "/home/noranikoloska/Documents/MasinskaVizija/Tensorflow/models/research/deeplab/datasets/GalaxyZoo/exp/train_on_trainval_set/train/model.ckpt-94"
